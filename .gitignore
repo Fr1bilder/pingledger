@@ -1,0 +1,8 @@
+/build/
+/dist/
+/cmake-build*/
+*.user
+*.csv
+*.ini
+*.bmp
+!docs/*.png
